@@ -34,8 +34,8 @@ This portfolio is a collection of my projects — from web development to cybers
 ### **2. Password Strength Checker**
 **Description:** A Python script that checks if a password is strong based on length, numbers, and special characters.  
 **Tech:** Python  
-**Repository:** [View Code](#) *(replace # with repo link when uploaded)*  
-
+**Repository:** [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Untitled0.ipynb
+)
 ---
 
 ### **3. Network Port Scanner**
