@@ -66,7 +66,7 @@ Skills Highlighted: String analysis, pattern matching, cybersecurity awareness.
 
 ## 📬 Connect With Me
 - **Website:** [ashthetech.com](https://www.ashthetech.com/home)  
-- **LinkedIn:** *(add link here)*  
+- **LinkedIn:** www.linkedin.com/in/ashlee-frank-63456414a  
 - **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)  
 - **Email:** ashleeevonnefrank@gmail.com  
 
