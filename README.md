@@ -47,9 +47,10 @@ This portfolio is a collection of my projects — from web development to cybers
 
 ---
 
-### **4. Cybersecurity Awareness Page**
-**Description:** A static website teaching users how to spot phishing emails and scams.  
-**Tech:** HTML, CSS, JavaScript  
+### **4. Email Phishing Detector (Python)
+Description: Checks a sample email for signs of phishing, like suspicious links or keywords.
+Tech: Python
+Skills Highlighted: String analysis, pattern matching, cybersecurity awareness.
 **Repository:** [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Cybersecurity-Awareness-Page/index.html)  
 
 ---
