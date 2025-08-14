@@ -51,7 +51,7 @@ This portfolio is a collection of my projects — from web development to cybers
 ### **4. Cybersecurity Awareness Page**
 **Description:** A static website teaching users how to spot phishing emails and scams.  
 **Tech:** HTML, CSS, JavaScript  
-**Repository:** [View Code](#)  
+**Repository:** [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Cybersecurity-Awareness-Page/index.html)  
 
 ---
 
