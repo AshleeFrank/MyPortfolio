@@ -42,7 +42,7 @@ This portfolio is a collection of my projects — from web development to cybers
 ### **3. Network Port Scanner**
 **Description:** Scans open ports on a given IP to identify potential vulnerabilities.  
 **Tech:** Python, Sockets  
-**Repository:** [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Network-Port-Scanner.ipynb)
+**Repository:**  [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Network-Port-Scanner.ipynb)
 
 ---
 
