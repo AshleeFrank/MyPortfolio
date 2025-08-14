@@ -51,7 +51,8 @@ This portfolio is a collection of my projects — from web development to cybers
 Description: Checks a sample email for signs of phishing, like suspicious links or keywords.
 Tech: Python
 Skills Highlighted: String analysis, pattern matching, cybersecurity awareness.
-**Repository:** [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Cybersecurity-Awareness-Page/index.html)  
+
+**Repository:**  [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Cybersecurity_Awareness_Email_Phishing_Detector.ipynb)  
 
 ---
 
