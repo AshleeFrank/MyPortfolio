@@ -26,7 +26,8 @@ This portfolio is a collection of my projects — from web development to cybers
 **Description:** My official tech portfolio site showcasing my skills, projects, and blog posts.  
 **Tech:** HTML, CSS, JavaScript  
 **Live Demo:** [ashthetech.com](https://www.ashthetech.com/home)  
-**Repository:** *(coming soon if you upload site files)*  
+**Repository:** Repository: [View Code](https://github.com/AshleeFrank/MyPortfolio/blob/main/Password-Strength-Checker.ipynb)
+  
 
 ---
 
